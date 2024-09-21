@@ -23,4 +23,4 @@
     }
 
     // 커스텀 엘리먼트 등록
-    customElements.define('playvideotime', PlayVideoTime);
+    customElements.define('playvideo-time', PlayVideoTime);
